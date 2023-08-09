@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-<h1 align="left"><a href="https://linktr.ee/manohar9693" target="blank">contact with me 📞</a></h1>
+<h1 align="left"><a href="https://linktr.ee/manohar9693" target="blank">connected with me 🖇️</a></h1>
 <imag align = "right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif" >
 
 
