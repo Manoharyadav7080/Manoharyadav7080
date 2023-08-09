@@ -10,7 +10,7 @@
 
 
 
-- 📫 How to reach me **yadavmanohar78094@gmail.com**
+- 📫 How to reach me **yadavmanohar78094@gmail.com
  <br>
 
 - ⚡ Fun fact **I think I am funny 😎**
