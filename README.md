@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manohar Yadav</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Web devloper and Software  from India</h3>
 
 <h3 align="left"><a href="https://manoharyadav7080.github.io/Manoharyadav.info.github.io/" target="blank">My Portfolio Website <img>📃 </img></a></h3>
 <h1 align="left"><a href="https://linktr.ee/manohar9693" target="blank">Connected with me 🖇️</a></h1>
