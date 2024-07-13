@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Manohar Yadav</h1>
 <h3 align="center">A passionate web developer and software developer from India</h3>
 
-<h3 align="left"><a href="https://manoharyadav7080.github.io/Manoharyadav.info.github.io/" target="blank">My Portfolio Website <img>📃 </img></a></h3>
+<h3 align="left"><a href="[https://manoharyadav7080.github.io/Manoharyadav.info.github.io/](https://manoharyadav7080.github.io/portfolio.in/)" target="blank">My Portfolio Website <img>📃 </img></a></h3>
 <h1 align="left"><a href="https://linktr.ee/manohar9693" target="blank">Connected with me 🖇️</a></h1>
 <imag align = "right" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/1894420/screenshots/14032021/programming_01.gif" >
 
