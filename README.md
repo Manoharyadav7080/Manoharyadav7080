@@ -1,6 +1,6 @@
 # 🏄‍♂️ Manohar Yadav
 <h3 align="left">
-DevOps Engineer | Cloud & Automation Enthusiast
+Cloud & DevOps Engineer | Cloud & Automation Enthusiast
 </h3>
 
 <p align="left">
